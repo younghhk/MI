@@ -141,7 +141,7 @@ Because MNAR is fundamentally untestable, the usual recommendation is to perform
 
 ### Possible strategies under MNAR
 
-There is no one “correct” remedy, but common approaches include:
+There is no one "correct" remedy, but common approaches include:
 
 * **Sensitivity analyses**
   Explore how conclusions change under different plausible assumptions about the missing data.
@@ -149,7 +149,7 @@ There is no one “correct” remedy, but common approaches include:
 * **Pattern-mixture models** or **selection models**
   More complex approaches that explicitly model missingness.
 
-* **Creating a “missing” category for categorical variables**
+* **Creating a "missing" category for categorical variables**
   A pragmatic approach that may allow the model to capture informative missingness.
   Not appropriate for continuous variables.
 
