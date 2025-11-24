@@ -163,4 +163,4 @@ There is no one "correct" remedy, but common approaches include:
 -	Little RJA. A Test of Missing Completely at Random for Multivariate Data with Missing Values. Journal of the American Statistical Association. 1988;83(404):1198–1202. (Introduces Little’s MCAR test.)
 -	Raghunathan TE, Lepkowski JM, van Hoewyk J, Solenberger P. A multivariate technique for multiply imputing missing values using a sequence of regression models.
 Survey Methodology. 2001;27(1):85-95.
-- [Imputation in NHANES](https://ehsanx.github.io/EpiMethods/missingdata2.html)
+- [Imputation in NHANES](https://ehsanx.github.io/EpiMethods/missingdata2.html) (A tutorial by Dr. M. Ehsan Karim on performing multiple imputation for NHANES and other complex survey data.)
